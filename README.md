@@ -34,5 +34,5 @@
 
 ### 1. 프로젝트 클론
 ```bash
-git clone [https://github.com/your-username/career-link-agent.git](https://github.com/your-username/career-link-agent.git)
-cd career-link-agent
+git clone [https://github.com/godavidgpg/Career-Agent-Upstage.git](https://github.com/godavidgpg/Career-Agent-Upstage.git)
+cd Career-Agent-Upstage
